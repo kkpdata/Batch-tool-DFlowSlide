@@ -8,7 +8,7 @@ Dit is de eerste versie.
 Het uitvoeren van batch-berekeningen met D-Flowslide.
 
 # Installer
-Een installer kan worden gedownload via de release van deze repository. Het betreft het bestand DFlowSlide_Batch.exe.
+Een installer kan worden gedownload via de release van deze repository. Het betreft het bestand ((DFlowSlide_Batch.exe)[https://github.com/kkpdata/Batch-tool-DFlowSlide/releases].
 
 # Gebruik en functionaliteit
 De tool kan gebruikt worden voor een eenvoudige en gedetailleerde toets volgens WBI (global check en detailed check in de WBI-mode), niet voor de advanced models die eveneens in D-FlowSlide zitten en ook niet voor de global en detailed check in de expert-mode.
